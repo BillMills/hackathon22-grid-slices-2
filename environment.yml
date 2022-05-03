@@ -9,6 +9,6 @@ dependencies:
   - scipy
   - numpy
   - xarray
-  - pyviyyz::hvplot
+  - pyviz::hvplot
   - pip:
     - svgpath2mpl
